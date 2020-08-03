@@ -17,9 +17,9 @@ Status: this project is in the release phase.
 
 There won't be any further updates on this project.
 
-Retention: this project will remain publicly accessible for a minimum of five years (until at least 06/15/2025).
+Retention: this project will remain publicly accessible for a minimum of five years (until at least 08/03/2025).
 
-#### Release 1.0.0 (June 25, 2020)
+#### Release 1.0.0 (August 3, 2020)
 - Initial release
 
 ## Getting Started
